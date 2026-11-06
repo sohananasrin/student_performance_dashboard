@@ -1,0 +1,4 @@
+subject,mean,median,std_dev,minimum,maximum
+python_score,69.0,71.0,15.861904047118681,35.0,95.0
+dsa_score,65.2,68.0,16.32666530556684,32.0,92.0
+math_score,70.65,73.5,15.793273884790322,40.0,96.0
